@@ -1,0 +1,489 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SimPolygonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 552}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SimPolygonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{566, 0}";
+			sepNavVisRange = "{0, 1398}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimPolygon */ = {
+		activeExec = 0;
+		executables = (
+			D4DEAAA81426D30B00A88FA4 /* SimPolygon */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D4DEAAA81426D30B00A88FA4 /* SimPolygon */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimPolygon */;
+		breakpoints = (
+			D4DEAAF31426DA2000A88FA4 /* SimPolygon.m:28 */,
+			D4DEAAFD1426DA3B00A88FA4 /* SimPolygon.m:41 */,
+			D4DEAB011426DA6600A88FA4 /* SimController.m:29 */,
+		);
+		codeSenseManager = D4DEAABF1426D31B00A88FA4 /* Code sense */;
+		executables = (
+			D4DEAAA81426D30B00A88FA4 /* SimPolygon */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					739,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 338088715;
+			PBXWorkspaceStateSaveDate = 338088715;
+		};
+		perUserProjectItems = {
+			D4DEAB241426E50F00A88FA4 /* PBXTextBookmark */ = D4DEAB241426E50F00A88FA4 /* PBXTextBookmark */;
+			D4DEAB261426E50F00A88FA4 /* PBXTextBookmark */ = D4DEAB261426E50F00A88FA4 /* PBXTextBookmark */;
+			D4DEAB281426E50F00A88FA4 /* PBXTextBookmark */ = D4DEAB281426E50F00A88FA4 /* PBXTextBookmark */;
+			D4DEAB3F1426E78000A88FA4 /* PBXTextBookmark */ = D4DEAB3F1426E78000A88FA4 /* PBXTextBookmark */;
+			D4DEAB5E1426EA7500A88FA4 /* PBXTextBookmark */ = D4DEAB5E1426EA7500A88FA4 /* PBXTextBookmark */;
+			D4DEAB841426F2D300A88FA4 /* PBXTextBookmark */ = D4DEAB841426F2D300A88FA4 /* PBXTextBookmark */;
+			D4DEAB851426F2D300A88FA4 /* PBXTextBookmark */ = D4DEAB851426F2D300A88FA4 /* PBXTextBookmark */;
+			D4DEABB11426F9DB00A88FA4 /* PBXTextBookmark */ = D4DEABB11426F9DB00A88FA4 /* PBXTextBookmark */;
+			D4DEABC61426FB6700A88FA4 /* PBXTextBookmark */ = D4DEABC61426FB6700A88FA4 /* PBXTextBookmark */;
+			D4DEABDB1426FC8C00A88FA4 /* PBXTextBookmark */ = D4DEABDB1426FC8C00A88FA4 /* PBXTextBookmark */;
+			D4DEABF41426FF2E00A88FA4 /* PBXTextBookmark */ = D4DEABF41426FF2E00A88FA4 /* PBXTextBookmark */;
+			D4DEABFF1426FFCF00A88FA4 /* PBXTextBookmark */ = D4DEABFF1426FFCF00A88FA4 /* PBXTextBookmark */;
+			D4DEAC001426FFCF00A88FA4 /* PBXTextBookmark */ = D4DEAC001426FFCF00A88FA4 /* PBXTextBookmark */;
+			D4DEAC061426FFF500A88FA4 /* PBXTextBookmark */ = D4DEAC061426FFF500A88FA4 /* PBXTextBookmark */;
+			D4DEAC081426FFF500A88FA4 /* PBXTextBookmark */ = D4DEAC081426FFF500A88FA4 /* PBXTextBookmark */;
+			D4DEAC2E14271AB200A88FA4 /* PBXTextBookmark */ = D4DEAC2E14271AB200A88FA4 /* PBXTextBookmark */;
+			D4DEAC2F14271AB200A88FA4 /* PBXTextBookmark */ = D4DEAC2F14271AB200A88FA4 /* PBXTextBookmark */;
+			D4DEAC4D1427353C00A88FA4 /* PBXTextBookmark */ = D4DEAC4D1427353C00A88FA4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D4DEAABE1426D31B00A88FA4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D4DEAAA81426D30B00A88FA4 /* SimPolygon */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimPolygon;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D4DEAABE1426D31B00A88FA4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D4DEAABF1426D31B00A88FA4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D4DEAAC01426D54400A88FA4 /* SimView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 552}}";
+			sepNavSelRange = "{411, 29}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	D4DEAAC11426D54400A88FA4 /* SimView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 1326}}";
+			sepNavSelRange = "{973, 0}";
+			sepNavVisRange = "{684, 991}";
+		};
+	};
+	D4DEAAC31426D57E00A88FA4 /* SimController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {523, 897}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{193, 355}";
+			sepNavWindowFrame = "{{38, 418}, {750, 558}}";
+		};
+	};
+	D4DEAAC41426D57E00A88FA4 /* SimController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 529}}";
+			sepNavSelRange = "{417, 20}";
+			sepNavVisRange = "{0, 576}";
+			sepNavWindowFrame = "{{15, 439}, {750, 558}}";
+		};
+	};
+	D4DEAAC71426D68800A88FA4 /* SimPolygon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 529}}";
+			sepNavSelRange = "{356, 57}";
+			sepNavVisRange = "{0, 421}";
+		};
+	};
+	D4DEAAC81426D68800A88FA4 /* SimPolygon.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 793}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{143, 533}";
+		};
+	};
+	D4DEAAE51426D92800A88FA4 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 2184}}";
+			sepNavSelRange = "{1291, 12}";
+			sepNavVisRange = "{2739, 1018}";
+		};
+	};
+	D4DEAAF31426DA2000A88FA4 /* SimPolygon.m:28 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D4DEAAC81426D68800A88FA4 /* SimPolygon.m */;
+		functionName = "-setSideNum:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 28;
+		location = SimPolygon;
+		modificationTime = 338090648.616757;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D4DEAAFD1426DA3B00A88FA4 /* SimPolygon.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D4DEAAC81426D68800A88FA4 /* SimPolygon.m */;
+		functionName = "-incSide";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = SimPolygon;
+		modificationTime = 338090648.616816;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D4DEAB011426DA6600A88FA4 /* SimController.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D4DEAAC31426D57E00A88FA4 /* SimController.m */;
+		functionName = "-onClickIncButton";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = SimPolygon;
+		modificationTime = 338090648.616841;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D4DEAB221426E50F00A88FA4 /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1321, 3822}}";
+			sepNavSelRange = "{6405, 109}";
+			sepNavVisRange = "{3728, 1785}";
+		};
+	};
+	D4DEAB241426E50F00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB251426E50F00A88FA4 /* CGBase.h */;
+		name = "CGBase.h: 83";
+		rLen = 28;
+		rLoc = 2288;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 1371;
+	};
+	D4DEAB251426E50F00A88FA4 /* CGBase.h */ = {
+		isa = PBXFileReference;
+		name = CGBase.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h;
+		sourceTree = "<absolute>";
+	};
+	D4DEAB261426E50F00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB271426E50F00A88FA4 /* math.h */;
+		name = "math.h: 536";
+		rLen = 69;
+		rLoc = 21435;
+		rType = 0;
+		vrLen = 1665;
+		vrLoc = 20612;
+	};
+	D4DEAB271426E50F00A88FA4 /* math.h */ = {
+		isa = PBXFileReference;
+		name = math.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	D4DEAB281426E50F00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB291426E50F00A88FA4 /* CGGeometry.h */;
+		name = "CGGeometry.h: 21";
+		rLen = 16;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 0;
+	};
+	D4DEAB291426E50F00A88FA4 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	D4DEAB2B1426E50F00A88FA4 /* CGContext.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGContext.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 14313}}";
+			sepNavSelRange = "{7968, 50}";
+			sepNavVisRange = "{15558, 1731}";
+		};
+	};
+	D4DEAB3F1426E78000A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB401426E78000A88FA4 /* CGColor.h */;
+		name = "CGColor.h: 8";
+		rLen = 36;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 3200;
+	};
+	D4DEAB401426E78000A88FA4 /* CGColor.h */ = {
+		isa = PBXFileReference;
+		name = CGColor.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColor.h;
+		sourceTree = "<absolute>";
+	};
+	D4DEAB5E1426EA7500A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB2B1426E50F00A88FA4 /* CGContext.h */;
+		name = "CGContext.h: 244";
+		rLen = 50;
+		rLoc = 7968;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 15558;
+	};
+	D4DEAB841426F2D300A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB221426E50F00A88FA4 /* UIView.h */;
+		name = "UIView.h: 146";
+		rLen = 109;
+		rLoc = 6405;
+		rType = 0;
+		vrLen = 1785;
+		vrLoc = 3728;
+	};
+	D4DEAB851426F2D300A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAB861426F2D300A88FA4 /* NSSet.h */;
+		name = "NSSet.h: 12";
+		rLen = 87;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 1560;
+		vrLoc = 0;
+	};
+	D4DEAB861426F2D300A88FA4 /* NSSet.h */ = {
+		isa = PBXFileReference;
+		name = NSSet.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSet.h;
+		sourceTree = "<absolute>";
+	};
+	D4DEABA91426F86700A88FA4 /* UIResponder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIResponder.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 884}}";
+			sepNavSelRange = "{1075, 66}";
+			sepNavVisRange = "{491, 2518}";
+		};
+	};
+	D4DEABB11426F9DB00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEABA91426F86700A88FA4 /* UIResponder.h */;
+		name = "UIResponder.h: 33";
+		rLen = 66;
+		rLoc = 1075;
+		rType = 0;
+		vrLen = 2518;
+		vrLoc = 491;
+	};
+	D4DEABC61426FB6700A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAE51426D92800A88FA4 /* NSObject.h */;
+		name = "NSObject.h: 72";
+		rLen = 12;
+		rLoc = 1291;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 2739;
+	};
+	D4DEABDB1426FC8C00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SimPolygonAppDelegate.h */;
+		name = "SimPolygonAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	D4DEABF41426FF2E00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC01426D54400A88FA4 /* SimView.h */;
+		name = "SimView.h: 24";
+		rLen = 29;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	D4DEABFF1426FFCF00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC11426D54400A88FA4 /* SimView.m */;
+		name = "SimView.m: 59";
+		rLen = 0;
+		rLoc = 973;
+		rType = 0;
+		vrLen = 991;
+		vrLoc = 684;
+	};
+	D4DEAC001426FFCF00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC41426D57E00A88FA4 /* SimController.h */;
+		name = "SimController.h: 20";
+		rLen = 20;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	D4DEAC061426FFF500A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimPolygonAppDelegate.m */;
+		name = "SimPolygonAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 566;
+		rType = 0;
+		vrLen = 1398;
+		vrLoc = 0;
+	};
+	D4DEAC081426FFF500A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC81426D68800A88FA4 /* SimPolygon.m */;
+		name = "SimPolygon.m: 52";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 142;
+	};
+	D4DEAC2E14271AB200A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC31426D57E00A88FA4 /* SimController.m */;
+		name = "SimController.m: 66";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 730;
+	};
+	D4DEAC2F14271AB200A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC71426D68800A88FA4 /* SimPolygon.h */;
+		name = "SimPolygon.h: 22";
+		rLen = 57;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 421;
+		vrLoc = 0;
+	};
+	D4DEAC4D1427353C00A88FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4DEAAC81426D68800A88FA4 /* SimPolygon.m */;
+		name = "SimPolygon.m: 30";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 143;
+	};
+}
